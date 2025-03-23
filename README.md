@@ -1,7 +1,7 @@
-# TheSalesMan Project
+# TheSalesAgent Project
 
 ## Overview
-TheSalesMan is a conversational sales agent named "Steve" that specializes in Apple products. The application utilizes advanced AI capabilities, including Large Language Models (LLMs), to engage users in multi-turn conversations, providing product recommendations and answering queries related to Apple products.
+TheSalesAgent is a conversational sales agent named "Steve" that specializes in Apple products. The application utilizes advanced AI capabilities, including Large Language Models (LLMs), to engage users in multi-turn conversations, providing product recommendations and answering queries related to Apple products.
 
 ## Features
 - Multi-turn conversation capability
