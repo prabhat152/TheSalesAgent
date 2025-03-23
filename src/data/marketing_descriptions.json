@@ -1,0 +1,26 @@
+[
+  {
+    "product_id": "iphone15",
+    "description": "Experience the future with the iPhone 15. Capture stunning photos and enjoy blazing-fast performance."
+  },
+  {
+    "product_id": "macbookair",
+    "description": "The MacBook Air is perfect for students and professionals on the go. Its sleek design and long battery life make it an ideal companion."
+  },
+  {
+    "product_id": "applewatch9",
+    "description": "Stay connected and monitor your health with the Apple Watch Series 9. It's the ultimate wearable device."
+  },
+  {
+    "product_id": "ipadpro",
+    "description": "Unleash your creativity with the iPad Pro. Featuring the powerful M2 chip and a stunning Liquid Retina XDR display."
+  },
+  {
+    "product_id": "airpodsmax",
+    "description": "Immerse yourself in pure audio bliss with AirPods Max. Experience high-fidelity sound and unparalleled comfort."
+  },
+  {
+    "product_id": "macmini",
+    "description": "The Mac Mini delivers incredible performance in a compact design. Perfect for any desk setup."
+  }
+]

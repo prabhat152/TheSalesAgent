@@ -1,0 +1,38 @@
+[
+  {
+    "id": "iphone15",
+    "name": "iPhone 15",
+    "description": "The latest iPhone with advanced features.",
+    "price": 999
+  },
+  {
+    "id": "macbookair",
+    "name": "MacBook Air",
+    "description": "The thinnest and lightest MacBook.",
+    "price": 1199
+  },
+  {
+    "id": "applewatch9",
+    "name": "Apple Watch Series 9",
+    "description": "The most advanced Apple Watch yet.",
+    "price": 399
+  },
+  {
+    "id": "ipadpro",
+    "name": "iPad Pro",
+    "description": "The ultimate iPad experience.",
+    "price": 799
+  },
+  {
+    "id": "airpodsmax",
+    "name": "AirPods Max",
+    "description": "High-fidelity audio with active noise cancellation.",
+    "price": 549
+  },
+  {
+    "id": "macmini",
+    "name": "Mac Mini",
+    "description": "Compact desktop with M2 chip.",
+    "price": 699
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "product_id": "iphone15",
+    "faqs": [
+      {
+        "question": "What is the battery life of the iPhone 15?",
+        "answer": "The iPhone 15 offers up to 20 hours of video playback."
+      },
+      {
+        "question": "Does the iPhone 15 support 5G?",
+        "answer": "Yes, the iPhone 15 supports 5G connectivity."
+      }
+    ]
+  },
+  {
+    "product_id": "macbookair",
+    "faqs": [
+      {
+        "question": "How much does the MacBook Air weigh?",
+        "answer": "The MacBook Air weighs just 2.7 pounds."
+      },
+      {
+        "question": "What ports does the MacBook Air have?",
+        "answer": "The MacBook Air comes with two Thunderbolt / USB 4 ports."
+      }
+    ]
+  },
+  {
+    "product_id": "applewatch9",
+    "faqs": [
+      {
+        "question": "Is the Apple Watch Series 9 waterproof?",
+        "answer": "The Apple Watch Series 9 is water-resistant up to 50 meters."
+      },
+      {
+        "question": "Does the Apple Watch Series 9 have GPS?",
+        "answer": "Yes, the Apple Watch Series 9 has built-in GPS."
+      }
+    ]
+  },
+  {
+    "product_id": "ipadpro",
+    "faqs": [
+      {
+        "question": "What is the screen size of the iPad Pro?",
+        "answer": "The iPad Pro is available in 11-inch and 12.9-inch sizes."
+      },
+      {
+        "question": "Does the iPad Pro support the Apple Pencil?",
+        "answer": "Yes, the iPad Pro supports the Apple Pencil (2nd generation)."
+      }
+    ]
+  },
+  {
+    "product_id": "airpodsmax",
+    "faqs": [
+      {
+        "question": "Do the AirPods Max have noise cancellation?",
+        "answer": "Yes, the AirPods Max feature active noise cancellation."
+      },
+      {
+        "question": "What is the battery life of the AirPods Max?",
+        "answer": "The AirPods Max offer up to 20 hours of listening time."
+      }
+    ]
+  },
+  {
+    "product_id": "macmini",
+    "faqs": [
+      {
+        "question": "What chip does the Mac Mini use?",
+        "answer": "The Mac Mini is powered by the Apple M2 chip."
+      },
+      {
+        "question": "Can the Mac Mini connect to multiple displays?",
+        "answer": "Yes, the Mac Mini can connect to multiple displays."
+      }
+    ]
+  }
+]

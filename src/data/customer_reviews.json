@@ -1,0 +1,107 @@
+[
+  {
+    "product_id": "iphone15",
+    "reviews": [
+      {
+        "user": "John Doe",
+        "rating": 5,
+        "comment": "The iPhone 15 is amazing! The camera is incredible."
+      },
+      {
+        "user": "Jane Smith",
+        "rating": 4,
+        "comment": "Great phone, but the battery life could be better."
+      },
+      {
+        "user": "Mike Johnson",
+        "rating": 5,
+        "comment": "Best iPhone ever! Fast and reliable."
+      }
+    ]
+  },
+  {
+    "product_id": "macbookair",
+    "reviews": [
+      {
+        "user": "Alice Johnson",
+        "rating": 5,
+        "comment": "The MacBook Air is so light and fast. Perfect for my needs."
+      },
+      {
+        "user": "Bob Williams",
+        "rating": 4,
+        "comment": "Excellent laptop, but I wish it had more ports."
+      },
+      {
+        "user": "Carol Davis",
+        "rating": 5,
+        "comment": "Love the battery life and the sleek design."
+      }
+    ]
+  },
+  {
+    "product_id": "applewatch9",
+    "reviews": [
+      {
+        "user": "Charlie Brown",
+        "rating": 5,
+        "comment": "The Apple Watch Series 9 is a game-changer. I love the health features."
+      },
+      {
+        "user": "Diana Miller",
+        "rating": 4,
+        "comment": "Very useful, but the battery life could be improved."
+      },
+      {
+        "user": "Ethan Taylor",
+        "rating": 5,
+        "comment": "Great for fitness tracking and notifications."
+      }
+    ]
+  },
+  {
+    "product_id": "ipadpro",
+    "reviews": [
+      {
+        "user": "Fiona White",
+        "rating": 5,
+        "comment": "The iPad Pro is a creative powerhouse. Love the Apple Pencil support."
+      },
+      {
+        "user": "George Green",
+        "rating": 4,
+        "comment": "Excellent tablet, but it's a bit pricey."
+      }
+    ]
+  },
+  {
+    "product_id": "airpodsmax",
+    "reviews": [
+      {
+        "user": "Hannah Black",
+        "rating": 5,
+        "comment": "The AirPods Max sound amazing. Worth the investment."
+      },
+      {
+        "user": "Isaac Blue",
+        "rating": 4,
+        "comment": "Great headphones, but they are a bit heavy."
+      }
+    ]
+  },
+  {
+    "product_id": "macmini",
+    "reviews": [
+      {
+        "user": "Jack Gray",
+        "rating": 5,
+        "comment": "The Mac Mini is a great value. Perfect for home office use."
+      },
+      {
+        "user": "Kelly Pink",
+        "rating": 4,
+        "comment": "Powerful and compact, but requires external peripherals."
+      }
+    ]
+  }
+]
